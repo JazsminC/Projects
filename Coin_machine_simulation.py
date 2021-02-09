@@ -1,6 +1,7 @@
 ##
 # This program simulates a coin machine that receives a certain amount of coins and then
 # dispenses smallest combination of coins.
+# Note: You can only enter in coin amounts. Its the machines job to breakdown what coins we will be using Ex: (2.00 = 200 coins)
 #
 # Define the price of a quarter, dime, nickel and penny
 Quarter_price = 25
