@@ -1,6 +1,7 @@
 # This program will ask for the runners speed in mph
-# and then calculate the amount of time in hours and
-# minutes it will take the runner to complete the task.
+# and then calculate the amount of time in hours and minutes
+# The runner is trying to complete the 5 mile, 10 mile, half marathon, and a full marathon.
+# LOL Hopefully he's not testings them on the same day!
 
 # Obtain the speed of the runner.
 speedStr = input("Your constant speed(mph): ")
